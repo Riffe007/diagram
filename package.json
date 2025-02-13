@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out -r https://github.com/Riffe007/diagram.git"
   },
   "dependencies": {
     "framer-motion": "^12.4.2",
